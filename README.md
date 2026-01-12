@@ -17,3 +17,10 @@ and converts the result into audio narration.
 - Groq LLM
 - gTTS
 - Transformers
+
+## 📸 Screenshots
+
+![App Screenshot 1](screenshots/1.png)
+![App Screenshot 2](screenshots/2.png)
+![App Screenshot 3](screenshots/3.png)
+![App Screenshot 4](screenshots/4.png)
