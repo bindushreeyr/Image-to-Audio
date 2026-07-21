@@ -4,8 +4,7 @@ An AI-powered Streamlit application that converts images into audio descriptions
 computer vision, large language models, and text-to-speech.
 
 ## 🚀 Live Demo
-👉 https://your-app-name.streamlit.app
-
+👉 https://image-to-audio-python.streamlit.app/
 ## 🧠 Overview
 Users upload an image, the app generates a caption using BLIP, refines it with a Groq LLM,
 and converts the result into audio narration.
